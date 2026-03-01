@@ -4,19 +4,13 @@ Hi, I’m Tristan
 
 CS student at EPITA  
 
-### What I’m into
-- Web development with PHP and Python  
-- Improving how I write and structure code  
-- Problems that force me to think a bit deeper  
-
 ### Currently learning
-- LeetCode, one problem at a time  
-- Backend logic and cleaner design  
-- Whatever happens to catch my interest  
+- Web scraping  
+- Pandas
+- Machine learning 
 
 ### Why I’m on GitHub
-I use this space to get better at building things and to understand how they actually work under the hood.
-
+I'm using github to collaborate on projects with friends and to look for ways to improve my own code
 
 ## Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tristangandi@gmail.com) 
