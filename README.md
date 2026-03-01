@@ -1,8 +1,24 @@
-# 💫 About Me:
-👋 Hey, I’m Tristan<br><br>🎓 CS student at EPITA  <br><br>🔍 What I'm Into<br>- Web dev with PHP & Python  <br>- Figuring out how to improve code<br>- Solving problems that make me think<br><br>🚧 Currently Learning<br>- LeetCode (one question at a time)  <br>- Backend logic and writing cleaner code  <br>- Whatever catches my curiosity<br><br>📌 Why I'm on GitHub<br>To try and get better at building cool stuff and understanding how things actually work.<br>
+# About Me
+
+Hi, I’m Tristan  
+
+CS student at EPITA  
+
+### What I’m into
+- Web development with PHP and Python  
+- Improving how I write and structure code  
+- Problems that force me to think a bit deeper  
+
+### Currently learning
+- LeetCode, one problem at a time  
+- Backend logic and cleaner design  
+- Whatever happens to catch my interest  
+
+### Why I’m on GitHub
+I use this space to get better at building things and to understand how they actually work under the hood.
 
 
-## 🌐 Socials:
+## Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tristangandi@gmail.com) 
 
 <p align="left">
@@ -39,15 +55,13 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Tristan-Tenders&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tristan-Tenders&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Tenders&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tristan-Tenders&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tristan-Tenders&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
